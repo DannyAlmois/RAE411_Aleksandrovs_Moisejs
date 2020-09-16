@@ -1,2 +1,2 @@
 # RAE411_Aleksandrovs_Moisejs
-RAE411 course "Telekomunikāciju programmatūra"
+SOFTWARE for: Analysis of Server Event Logs using Pandas Framewares
